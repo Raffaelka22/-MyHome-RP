@@ -84,8 +84,8 @@ Koenigsegg One 1
 LaFerrari
 Lamborghini Aventador
 Lamborghini Gallardo
-Lamborghini Gallardo C.
-Lamborghini Huracan EVO.
+Lamborghini Gallardo C
+Lamborghini Huracan EVO
 Lamborghini Murcielago LP640
 Lamborghini Urus
 Lexus CS300
