@@ -106,7 +106,6 @@ Mercedes-Benz Brabus 850 XL
 Mercedes-Benz C63
 Mercedes-Benz C63 Coupe
 Mercedes-Benz CLS 17
-Mercedes-Benz CLS 17
 Mercedes-Benz E63 W212 AMG
 Mercedes-Benz GLE63 AMG
 Mercedes-Benz ML63 W164
